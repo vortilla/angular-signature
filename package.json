@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/legalthings/angular-signature.git"
+    "url": "git+https://github.com/vortilla/angular-signature.git"
   },
   "keywords": [
     "angular",
@@ -17,10 +17,10 @@
   "dependencies": {
     "signature_pad": "^1.5.0"
   },
-  "author": "LegalThings <info@legalthings.net>",
+  "author": "Akash Gadhiya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/legalthings/angular-signature/issues"
+    "url": "https://github.com/vortilla/angular-signature/issues"
   },
-  "homepage": "https://github.com/legalthings/angular-signature#readme"
+  "homepage": "https://github.com/vortilla/angular-signature#readme"
 }
